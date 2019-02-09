@@ -48,11 +48,6 @@ The default base URL for API calls.
 
 The default base URL for ipify API calls to obtain the client public IP.
 
-### cache
-
-The Least Recently Used (LRU) memory caching storage used to cache IP address
-record. The cache will only stored most recent 500 records.
-
 ## lookup($ip\_address)
 
 Query and get an IP address information. Only accept IPv4 public address.
