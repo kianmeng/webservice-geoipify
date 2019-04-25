@@ -24,7 +24,7 @@ IPv4 address.
 
 # DEVELOPMENT
 
-Source repo at [https://github.com/kianmeng/webservice-geoipify](https://github.com/kianmeng/webservice-geoipify).
+Source repository at [https://github.com/kianmeng/webservice-geoipify](https://github.com/kianmeng/webservice-geoipify).
 
 How to contribute? Follow through the [CONTRIBUTING.md](https://github.com/kianmeng/webservice-geoipify/blob/master/CONTRIBUTING.md) document to setup your development environment.
 
