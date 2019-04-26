@@ -8,7 +8,7 @@
 # NAME
 
 WebService::GeoIPify - Perl library for ipify's Geolocation API,
-https://geo.ipify.org.
+https://geo.ipify.org and https://ipify.org.
 
 # SYNOPSIS
 
@@ -62,6 +62,10 @@ Look up the public IP address of the client which made the web service call.
     my $geoipify = WebService::GeoIPify->new(api_key => '1xxxxxxxxxxxxxxxxxxxxxxxxxxxxx32');
     print $geoipify->check();
 
+# AUTHOR
+
+Kian Meng, Ang <kianmeng@cpan.org>
+
 # COPYRIGHT AND LICENSE
 
 This software is Copyright (c) 2019 Kian Meng, Ang.
@@ -69,7 +73,3 @@ This software is Copyright (c) 2019 Kian Meng, Ang.
 This is free software, licensed under:
 
     The Artistic License 2.0 (GPL Compatible)
-
-# AUTHOR
-
-Kian Meng, Ang <kianmeng@users.noreply.github.com>
