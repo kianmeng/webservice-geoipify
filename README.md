@@ -1,7 +1,3 @@
-[![Build Status](https://travis-ci.org/kianmeng/webservice-geoipify.svg?branch=master)](https://travis-ci.org/kianmeng/webservice-geoipify)
-[![codecov](https://codecov.io/gh/kianmeng/webservice-geoipify/branch/master/graph/badge.svg)](https://codecov.io/gh/kianmeng/webservice-geoipify)
-[![Coverage Status](https://coveralls.io/repos/kianmeng/webservice-geoipify/badge.svg?branch=master)](https://coveralls.io/r/kianmeng/webservice-geoipify?branch=master)
-[![Kwalitee status](http://cpants.cpanauthors.org/dist/WebService-GeoIPify.png)](http://cpants.charsbar.org/dist/overview/WebService-GeoIPify)
 [![Cpan license](https://img.shields.io/cpan/l/WebService-GeoIPify.svg)](https://metacpan.org/release/WebService-GeoIPify)
 [![Cpan version](https://img.shields.io/cpan/v/WebService-GeoIPify.svg)](https://metacpan.org/release/WebService-GeoIPify)
 
