@@ -80,6 +80,12 @@
          }
       }
    },
+   "provides" : {
+      "WebService::GeoIPify" : {
+         "file" : "lib/WebService/GeoIPify.pm",
+         "version" : "0.04"
+      }
+   },
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
