@@ -16,7 +16,6 @@ requires 'Types::Standard', '1.004002';
 on test => sub {
     requires 'Pod::Coverage::TrustPod';
     requires 'Test::CPAN::Meta';
-    requires 'Test::DistManifest';
     requires 'Test::Exception';
     requires 'Test::HasVersion';
     requires 'Test::Kwalitee';
@@ -26,8 +25,5 @@ on test => sub {
 };
 
 on 'develop' => sub {
-    recommends 'Devel::NYTProf';
-    requires 'App::CISetup';
-    requires 'App::Software::License';
     requires 'Dist::Milla';
 };
