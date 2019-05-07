@@ -1,11 +1,6 @@
 use strict;
-use utf8;
 use warnings;
 
-use Test::More;
+use Test::UseAllModules;
 
-use_ok $_ for qw(
-    WebService::GeoIPify
-);
-
-done_testing;
+BEGIN { all_uses_ok(); }

@@ -21,6 +21,7 @@ on test => sub {
     requires 'Test::Kwalitee';
     requires 'Test::More';
     requires 'Test::Pod::Coverage';
+    requires 'Test::UseAllModules';
     requires 'Test::Warn';
 };
 
